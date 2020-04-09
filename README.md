@@ -4,8 +4,9 @@
 </p>
 
 <h3 align="center">lazy-routes</h3>
-<h3 align="center"><a href="http://burly-apple.surge.sh/"> </a>Demo</h3>
-
+<h3 align="center"><a href="http://burly-apple.surge.sh/">Deamo </a></h3>
+ <a href="http://burly-apple.surge.sh/" rel="noopener">
+ Deamo</a>
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
